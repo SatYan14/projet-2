@@ -23,16 +23,16 @@ define('FS_METHOD', 'direct');
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'db738295316' );
+define( 'DB_NAME', '***********' );
 
 /** MySQL database username */
-define( 'DB_USER', 'dbo738295316' );
+define( 'DB_USER', '***********' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'zWFxgCRsBohONuduLlQP' );
+define( 'DB_PASSWORD', '***********' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'db738295316.db.1and1.com' );
+define( 'DB_HOST', '***********' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
